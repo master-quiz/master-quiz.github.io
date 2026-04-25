@@ -1,1 +1,1 @@
-# master-quiz.github.io
+Master Quiz
